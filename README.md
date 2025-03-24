@@ -42,7 +42,7 @@ Breve descripción de carpetas y archivos.
 ## 📝 Informe completo
 
 👉 Puedes leer el informe detallado aquí:  
-[`Reto_Final_Alvaro_Lopez_Rompinelli.pdf`](./informe/Reto_Final_Alvaro_Lopez_Rompinelli.pdf)
+[`Proyecto_Final_Alvaro_Lopez_Rompinelli.pdf`](./informe/Reto_Final_Alvaro_Lopez_Rompinelli.pdf)
 
 ## 📬 Contacto
 
