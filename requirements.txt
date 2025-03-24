@@ -1,0 +1,25 @@
+Modelo 1
+
+pandas
+numpy
+seaborn
+matplotlib.pyplot
+pickle
+RandomForestClassifier
+accuracy_score
+SMOTE 
+classification_report
+
+Modelo 2
+
+pandas
+numpy
+seaborn
+matplotlib.pyplot
+train_test_split
+cross_val_score
+RandomForestRegressor
+sklearn
+
+
+(Mas Detallado en el informe)
